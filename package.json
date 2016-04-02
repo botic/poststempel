@@ -1,0 +1,45 @@
+{
+  "name": "poststempel",
+  "version": "0.1",
+  "description": "A simple API client for Postmark <http://postmarkapp.com>",
+  "keywords": [
+    "postmark", "api", "client", "email"
+  ],
+  "author": {
+    "name":  "Philipp Naderer",
+    "web":   "http://github.com/botic",
+    "email": "philipp.naderer@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name":  "Philipp Naderer",
+      "web":   "http://github.com/botic",
+      "email": "philipp.naderer@gmail.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name":  "Philipp Naderer",
+      "web":   "http://github.com/botic",
+      "email": "philipp.naderer@gmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/botic/poststempel/raw/master/LICENSE"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/botic/poststempel.git"
+    }
+  ],
+  "engines": {
+    "ringojs": ">=0.11"
+  },
+  "main": "./lib/poststempel.js"
+}
